@@ -21,7 +21,7 @@ The goal of this project is to:
 # Repository Structure
 ***Topics included***:
 
-1. Python Basics
+1. Python Fundamentals
 2. Control Flow
 3. Loops
 4. Data Structures
